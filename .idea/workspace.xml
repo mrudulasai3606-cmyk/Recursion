@@ -53,7 +53,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.SumOfDigits">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Recursion" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.PrintNto1" />
         <item itemvalue="Application.Print1ton" />
       </list>
