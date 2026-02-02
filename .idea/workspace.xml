@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RevArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxEle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Application.Print1ton.executor": "Run",
     "Application.PrintArrayRec.executor": "Run",
     "Application.PrintNto1.executor": "Run",
+    "Application.RevArr.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfEle.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +50,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GCD">
+  <component name="RunManager" selected="Application.RevArr">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GCD" />
       <module name="Recursion" />
@@ -65,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowerOfPQ" />
+    <configuration name="PrintArrayRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintArrayRec" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintArrayRec" />
+    <configuration name="RevArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevArr" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RevArr" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.MaxEle" />
         <item itemvalue="Application.SumOfEle" />
         <item itemvalue="Application.PrintArrayRec" />
-        <item itemvalue="Application.PowerOfPQ" />
       </list>
     </recent_temporary>
   </component>
