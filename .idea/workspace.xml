@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PowerOfPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintArrayRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxEle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,10 @@
   "keyToString": {
     "Application.FactorialRecursion.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.MaxEle.executor": "Run",
     "Application.PowerOfPQ.executor": "Run",
     "Application.Print1ton.executor": "Run",
+    "Application.PrintArrayRec.executor": "Run",
     "Application.PrintNto1.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,9 +47,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintArrayRec">
+  <component name="RunManager" selected="Application.MaxEle">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxEle" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintNto1" />
-      <module name="Recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfDigits" />
       <module name="Recursion" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxEle" />
         <item itemvalue="Application.PrintArrayRec" />
         <item itemvalue="Application.PowerOfPQ" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.PrintNto1" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +111,15 @@
           <url>file://$PROJECT_DIR$/src/PowerOfPQ.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PrintArrayRec.java</url>
+          <line>8</line>
+          <properties class="PrintArrayRec" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
