@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class MaxEle {
     static int max(int arr[],int idx){
         if(idx==arr.length-1) return arr[idx];
-         int smax = max(arr,idx+1);
-         return Math.max(arr[idx],smax);
+         return Math.max(arr[idx],max(arr,idx+1));
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

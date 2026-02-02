@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumOfEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxEle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +37,27 @@
   "keyToString": {
     "Application.FactorialRecursion.executor": "Run",
     "Application.Fibonacci.executor": "Run",
-    "Application.MaxEle.executor": "Debug",
+    "Application.GCD.executor": "Run",
+    "Application.MaxEle.executor": "Run",
     "Application.PowerOfPQ.executor": "Run",
     "Application.Print1ton.executor": "Run",
     "Application.PrintArrayRec.executor": "Run",
     "Application.PrintNto1.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfEle.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfEle">
+  <component name="RunManager" selected="Application.GCD">
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCD" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxEle" />
       <module name="Recursion" />
@@ -68,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfDigits" />
-      <module name="Recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfEle" />
       <module name="Recursion" />
@@ -84,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfEle" />
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.MaxEle" />
+        <item itemvalue="Application.SumOfEle" />
         <item itemvalue="Application.PrintArrayRec" />
         <item itemvalue="Application.PowerOfPQ" />
-        <item itemvalue="Application.SumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -113,26 +117,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MaxEle.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SumOfEle.java</url>
-          <line>4</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SumOfEle.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SumOfEle.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PrintArrayRec.java</url>
