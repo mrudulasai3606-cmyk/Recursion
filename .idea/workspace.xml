@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Print1ton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintArrayRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +37,7 @@
   "keyToString": {
     "Application.FactorialRecursion.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.PowerOfPQ.executor": "Run",
     "Application.Print1ton.executor": "Run",
     "Application.PrintNto1.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
@@ -53,7 +46,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfDigits">
+  <component name="RunManager" selected="Application.PrintArrayRec">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Recursion" />
@@ -61,8 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print1ton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Print1ton" />
+    <configuration name="PowerOfPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerOfPQ" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintArrayRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintArrayRec" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintArrayRec" />
+        <item itemvalue="Application.PowerOfPQ" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.PrintNto1" />
-        <item itemvalue="Application.Print1ton" />
       </list>
     </recent_temporary>
   </component>
@@ -101,5 +102,16 @@
       <updated>1770017944867</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PowerOfPQ.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
