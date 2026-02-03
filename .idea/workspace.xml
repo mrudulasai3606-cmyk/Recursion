@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RevArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="396YMs04ipX30mZdJKnKGXHcT3Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,12 +45,13 @@
     "Application.RevArr.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfEle.executor": "Debug",
+    "Application.SumOfSeries.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RevArr">
+  <component name="RunManager" selected="Application.SumOfSeries">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GCD" />
       <module name="Recursion" />
@@ -60,13 +61,6 @@
     </configuration>
     <configuration name="MaxEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxEle" />
-      <module name="Recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintArrayRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintArrayRec" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfSeries" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfSeries" />
         <item itemvalue="Application.RevArr" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.MaxEle" />
         <item itemvalue="Application.SumOfEle" />
-        <item itemvalue="Application.PrintArrayRec" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +129,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RevArr.java</url>
+          <line>10</line>
+          <properties class="RevArr" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
