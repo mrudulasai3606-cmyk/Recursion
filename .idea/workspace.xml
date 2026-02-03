@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     "Application.PrintArrayRec.executor": "Run",
     "Application.PrintNto1.executor": "Run",
     "Application.RevArr.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfEle.executor": "Debug",
     "Application.SumOfSeries.executor": "Run",
@@ -51,7 +53,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LinearSearch">
+  <component name="RunManager" selected="Application.ReverseString">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GCD" />
       <module name="Recursion" />
@@ -66,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxEle" />
+    <configuration name="RevArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevArr" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RevArr" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.SumOfSeries" />
         <item itemvalue="Application.RevArr" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.MaxEle" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +140,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReverseString.java</url>
+          <line>9</line>
+          <properties class="ReverseString" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
