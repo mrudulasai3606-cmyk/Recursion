@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d10323-b480-453f-be06-fa853380f7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RevArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySorted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArraySorted.executor": "Run",
     "Application.FactorialRecursion.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.GCD.executor": "Run",
@@ -55,9 +56,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RevArray">
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
+  <component name="RunManager" selected="Application.ArraySorted">
+    <configuration name="ArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySorted" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySorted" />
         <item itemvalue="Application.RevArray" />
         <item itemvalue="Application.TowerOfHanoi" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +161,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ArraySorted.java</url>
+          <line>8</line>
+          <properties class="ArraySorted" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
